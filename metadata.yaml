@@ -1,5 +1,5 @@
 _repo: Titus-Andronicus_2260
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -33,5 +33,6 @@ subjects:
 - !lcsh 'Tragedies'
 - !lcsh 'Historical drama'
 - !lcsh 'Goths -- Drama'
+- GITenberg
 title: Titus Andronicus
 url: http://www.gutenberg.org/ebooks/2260
